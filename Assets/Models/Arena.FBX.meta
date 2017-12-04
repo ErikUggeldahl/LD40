@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 31ddaec959500b542b4ebfa8bfc1fec6
+timeCreated: 1512265649
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Arena Wall
+    100004: ArenaBase
+    100006: Stairs1
+    100008: Stairs2
+    100010: Stairs3
+    100012: EastArch
+    100014: NorthArch
+    100016: Pillar
+    100018: Pillar 1
+    100020: Pillar 2
+    100022: Pillar 3
+    100024: Pillar 4
+    100026: Pillar 5
+    100028: Plaform
+    100030: Roof
+    100032: RoyalArch
+    100034: SouthArch
+    100036: ThroneArmRest
+    100038: ThroneArmRest 1
+    100040: ThroneBack
+    100042: ThroneBase
+    100044: WestArch
+    100046: Arch
+    100048: Arch 1
+    100050: Arch 2
+    100052: Arch 3
+    100054: Arch 4
+    100056: Arch 5
+    100058: Arch 6
+    100060: Arch 7
+    400000: //RootNode
+    400002: Arena Wall
+    400004: ArenaBase
+    400006: Stairs1
+    400008: Stairs2
+    400010: Stairs3
+    400012: EastArch
+    400014: NorthArch
+    400016: Pillar
+    400018: Pillar 1
+    400020: Pillar 2
+    400022: Pillar 3
+    400024: Pillar 4
+    400026: Pillar 5
+    400028: Plaform
+    400030: Roof
+    400032: RoyalArch
+    400034: SouthArch
+    400036: ThroneArmRest
+    400038: ThroneArmRest 1
+    400040: ThroneBack
+    400042: ThroneBase
+    400044: WestArch
+    400046: Arch
+    400048: Arch 1
+    400050: Arch 2
+    400052: Arch 3
+    400054: Arch 4
+    400056: Arch 5
+    400058: Arch 6
+    400060: Arch 7
+    2300000: Arena Wall
+    2300002: ArenaBase
+    2300004: Stairs1
+    2300006: Stairs2
+    2300008: Stairs3
+    2300010: EastArch
+    2300012: NorthArch
+    2300014: Pillar
+    2300016: Pillar 1
+    2300018: Pillar 2
+    2300020: Pillar 3
+    2300022: Pillar 4
+    2300024: Pillar 5
+    2300026: Plaform
+    2300028: Roof
+    2300030: RoyalArch
+    2300032: SouthArch
+    2300034: ThroneArmRest
+    2300036: ThroneArmRest 1
+    2300038: ThroneBack
+    2300040: ThroneBase
+    2300042: WestArch
+    2300044: Arch
+    2300046: Arch 1
+    2300048: Arch 2
+    2300050: Arch 3
+    2300052: Arch 4
+    2300054: Arch 5
+    2300056: Arch 6
+    2300058: Arch 7
+    3300000: Arena Wall
+    3300002: ArenaBase
+    3300004: Stairs1
+    3300006: Stairs2
+    3300008: Stairs3
+    3300010: EastArch
+    3300012: NorthArch
+    3300014: Pillar
+    3300016: Pillar 1
+    3300018: Pillar 2
+    3300020: Pillar 3
+    3300022: Pillar 4
+    3300024: Pillar 5
+    3300026: Plaform
+    3300028: Roof
+    3300030: RoyalArch
+    3300032: SouthArch
+    3300034: ThroneArmRest
+    3300036: ThroneArmRest 1
+    3300038: ThroneBack
+    3300040: ThroneBase
+    3300042: WestArch
+    3300044: Arch
+    3300046: Arch 1
+    3300048: Arch 2
+    3300050: Arch 3
+    3300052: Arch 4
+    3300054: Arch 5
+    3300056: Arch 6
+    3300058: Arch 7
+    4300000: ArenaBase
+    4300002: Arena Wall
+    4300004: Stairs1
+    4300006: Stairs2
+    4300008: Stairs3
+    4300010: NorthArch
+    4300012: SouthArch
+    4300014: EastArch
+    4300016: WestArch
+    4300018: Plaform
+    4300020: Pillar
+    4300022: Pillar
+    4300024: Pillar
+    4300026: Pillar
+    4300028: Pillar
+    4300030: Pillar
+    4300032: Roof
+    4300034: RoyalArch
+    4300036: ThroneBase
+    4300038: ThroneArmRest
+    4300040: ThroneArmRest
+    4300042: ThroneBack
+    4300044: Arch
+    4300046: Arch
+    4300048: Arch
+    4300050: Arch
+    4300052: Arch
+    4300054: Arch
+    4300056: Arch
+    4300058: Arch
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: d18c1ff5db853c24b927809661cfb6b6, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

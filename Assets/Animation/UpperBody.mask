@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UpperBody
+  m_Mask: 00000000010000000100000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: BBase
+    m_Weight: 1
+  - m_Path: BBase/BLThigh
+    m_Weight: 0
+  - m_Path: BBase/BLThigh/BLCalf
+    m_Weight: 0
+  - m_Path: BBase/BLThigh/BLCalf/BLFoot
+    m_Weight: 0
+  - m_Path: BBase/BRThigh
+    m_Weight: 0
+  - m_Path: BBase/BRThigh/BRCalf
+    m_Weight: 0
+  - m_Path: BBase/BRThigh/BRCalf/BRFoot
+    m_Weight: 0
+  - m_Path: BBase/BSpine1
+    m_Weight: 0
+  - m_Path: BBase/BSpine1/BSpine2
+    m_Weight: 1
+  - m_Path: BBase/BSpine1/BSpine2/BHead
+    m_Weight: 1
+  - m_Path: BBase/BSpine1/BSpine2/BHead/Eyes
+    m_Weight: 1
+  - m_Path: BBase/BSpine1/BSpine2/BHead/Face
+    m_Weight: 1
+  - m_Path: BBase/BSpine1/BSpine2/BHead/Hood
+    m_Weight: 1
+  - m_Path: BBase/BSpine1/BSpine2/BLUpArm
+    m_Weight: 1
+  - m_Path: BBase/BSpine1/BSpine2/BLUpArm/BLLowArm
+    m_Weight: 1
+  - m_Path: BBase/BSpine1/BSpine2/BLUpArm/BLLowArm/BLHand
+    m_Weight: 1
+  - m_Path: BBase/BSpine1/BSpine2/BRUpArm
+    m_Weight: 1
+  - m_Path: BBase/BSpine1/BSpine2/BRUpArm/BRLowArm
+    m_Weight: 1
+  - m_Path: BBase/BSpine1/BSpine2/BRUpArm/BRLowArm/BRHand
+    m_Weight: 1
+  - m_Path: Robe
+    m_Weight: 0
+  - m_Path: RSleeve
+    m_Weight: 0
